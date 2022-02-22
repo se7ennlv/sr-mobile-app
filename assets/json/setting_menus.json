@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "leading": "0xe501",
+      "title": "Change Password",
+      "subtitle": "User a new password to login",
+      "trailing": "0xe257"
+    },
+    {
+      "leading": "0xe266",
+      "title": "Languages",
+      "subtitle": "Setting your intelligible language",
+      "trailing": "0xe257"
+    },
+    {
+      "leading": "0xe36c",
+      "title": "Devices Management",
+      "subtitle": "Manage linked devices to e-SR",
+      "trailing": "0xe257"
+    },
+    {
+      "leading": "0xe31d",
+      "title": "Notification Privacy",
+      "subtitle": "Enable/disable notifications from system",
+      "trailing": "0xe257"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "menus": [
+    {
+      "leading": "0xe22a",
+      "title": "Home"
+    },
+    {
+      "leading": "0xe22a",
+      "title": "MY BENEFITS",
+      "items": [
+        {
+          "leading": "0xe45f",
+          "title": "MY BENEFITS",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe45f",
+          "title": "SR Passionate",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe0cc",
+          "title": "My Mart",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe18c",
+          "title": "Leave",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe127",
+          "title": "Roster & Attendance",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe33d",
+          "title": "Payroll",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe02a",
+          "title": "Clinic Record",
+          "subtitle": "",
+          "trailing": ""
+        },
+        {
+          "leading": "0xe650",
+          "title": "Survey Record",
+          "subtitle": "",
+          "trailing": ""
+        }
+      ]
+    },
+    {
+      "leading": "0xe22a",
+      "title": "HR INFORMATION",
+      "items": [
+        {
+          "leading": "0xe4ba",
+          "title": "Documents",
+          "subtitle": "",
+          "trailing": ""
+        }
+      ]
+    },
+    {
+      "leading": "0xe22a",
+      "title": "SETTINGS & PRIVACY",
+      "items": [
+        {
+          "leading": "0xf275",
+          "title": "Profile",
+          "subtitle": "",
+          "trailing": ""
+        }
+      ]
+    },
+    {
+      "leading": "0xf275",
+      "title": "About",
+      "subtitle": "",
+      "trailing": ""
+    }
+  ]
+}
